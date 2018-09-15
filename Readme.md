@@ -1,7 +1,3 @@
-# Git Course
+# Aprendendo Git e gitHub
 
-Este é um repositório teste para ensinar como o git funciona.
-
-Outra mensagem
-
-Saiba mais sobre isso.
+Este repositório é apenas para exercitar git e gitHub.
